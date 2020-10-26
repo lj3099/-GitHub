@@ -1,0 +1,12 @@
+#column{
+  background-color: rgba(137, 43, 226, 0.5);
+  color: black;
+  font-size: 30px;
+  font-family: cursive;
+}
+
+#type{ 
+  color: aqua;
+  font-size: 30px;
+  font-family: cursive;
+}
